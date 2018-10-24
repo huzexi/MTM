@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDSST_lib.a  CMakeFiles/DSST_lib.dir/src/TrackTask.cpp.o CMakeFiles/DSST_lib.dir/src/DsstWrapper.cpp.o CMakeFiles/DSST_lib.dir/3rdparty/piotr/src/gradientMex.cpp.o CMakeFiles/DSST_lib.dir/common/math_helper.cpp.o CMakeFiles/DSST_lib.dir/3rdparty/cv_ext/shift.cpp.o CMakeFiles/DSST_lib.dir/3rdparty/cv_ext/math_spectrums.cpp.o
+/usr/bin/ranlib libDSST_lib.a
